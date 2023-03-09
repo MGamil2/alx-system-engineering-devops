@@ -1,2 +1,2 @@
 #!/bin/bash
-ls -FXacm --group-directories-first
+ls -FXpcam --group-directories-first
